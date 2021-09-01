@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/user/CLionProjects/ProgrammingCJUAE101-2021/windows_side/01_hello_world_c/cmake-build-debug/CMakeFiles/01_hello_world_c.dir/embed.manifest"
