@@ -1,3 +1,0 @@
-C:/Users/user/CLionProjects/ProgrammingCJUAE101-2021/windows_side/00_hello_world/cmake-build-debug/CMakeFiles/00_hello_world.dir
-C:/Users/user/CLionProjects/ProgrammingCJUAE101-2021/windows_side/00_hello_world/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/user/CLionProjects/ProgrammingCJUAE101-2021/windows_side/00_hello_world/cmake-build-debug/CMakeFiles/rebuild_cache.dir
