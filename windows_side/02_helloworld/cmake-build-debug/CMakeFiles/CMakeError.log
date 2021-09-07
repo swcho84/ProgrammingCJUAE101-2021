@@ -1,0 +1,28 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/user/source/repos/ProgrammingCJUAE101-2021/windows_side/02_helloworld/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_62454\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_62454.dir\build.make /nologo -L                  CMakeFiles\cmTC_62454.dir\build
+Building C object CMakeFiles/cmTC_62454.dir/CMakeCCompilerABI.c.obj
+	"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_62454.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\user\source\repos\ProgrammingCJUAE101-2021\windows_side\02_helloworld\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @C:\Users\user\AppData\Local\Temp\nm1B7E.tmp
+NMAKE : fatal error U1077: '"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe"' : '0xc0000409' 반환 코드입니다.
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"' : '0x2' 반환 코드입니다.
+Stop.
+
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/user/source/repos/ProgrammingCJUAE101-2021/windows_side/02_helloworld/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_73778\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_73778.dir\build.make /nologo -L                  CMakeFiles\cmTC_73778.dir\build
+Building CXX object CMakeFiles/cmTC_73778.dir/CMakeCXXCompilerABI.cpp.obj
+	"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_73778.dir\CMakeCXXCompilerABI.cpp.obj.d --working-dir=C:\Users\user\source\repos\ProgrammingCJUAE101-2021\windows_side\02_helloworld\cmake-build-debug\CMakeFiles\CMakeTmp --filter-prefix="" -- C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @C:\Users\user\AppData\Local\Temp\nm2707.tmp
+NMAKE : fatal error U1077: '"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe"' : '0xc0000409' 반환 코드입니다.
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"' : '0x2' 반환 코드입니다.
+Stop.
+
+
+
+

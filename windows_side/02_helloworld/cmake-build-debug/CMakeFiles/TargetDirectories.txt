@@ -1,0 +1,3 @@
+C:/Users/user/source/repos/ProgrammingCJUAE101-2021/windows_side/02_helloworld/cmake-build-debug/CMakeFiles/02_helloworld.dir
+C:/Users/user/source/repos/ProgrammingCJUAE101-2021/windows_side/02_helloworld/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/source/repos/ProgrammingCJUAE101-2021/windows_side/02_helloworld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
