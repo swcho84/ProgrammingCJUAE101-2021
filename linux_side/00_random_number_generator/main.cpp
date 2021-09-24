@@ -16,11 +16,11 @@ void GenRandSeed()
 }
 
 // generating the random number
-int GenRandNum(int nRange)
+unsigned int GenRandNum(unsigned int nRange)
 {
-  int nRes = 0;
-  int nNum = rand();
-  nRes = ((int)(nNum) % (nRange));
+  unsigned int nRes = 0;
+  unsigned int nNum = rand();
+  nRes = ((unsigned int)(nNum) % (nRange));
   return nRes;
 }
 
@@ -41,13 +41,18 @@ int main(void)
 
 		// escaping the while loop
 		if (nRange == END_COND)
+		{
+			printf("end of the infinite while loop...\n");
 			break;
+		}
+		else 
+		{
+			// generating the random number
+			int nRes = GenRandNum(nRange);
 
-		// generating the random number
-		int nRes = GenRandNum(nRange);
-
-		// for debugging
-		printf("Result:random number generator, %d\n\n", nRes);
+			// for debugging
+			printf("Result:random number generator, %d\n\n", nRes);
+		}
 	}
 
   // related in C of windows (system("pause"))
