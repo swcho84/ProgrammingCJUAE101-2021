@@ -27,5 +27,8 @@ int main(void)
 
   // end of program..
   printf("End of the program..\n");
+
+	// pause function (windows: system("pause");
+	getchar();	
   return 0;
 }
