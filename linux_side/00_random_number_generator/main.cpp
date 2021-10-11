@@ -1,7 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <stdbool.h>
 #include <math.h>
 #include <time.h>
 
@@ -32,7 +29,7 @@ int main(void)
 	// initializing variables
 	int nRange = 0;
 
-	while (true)
+	while (1)
 	{
 		// generating the input information
 		printf("Input a single number, for generating the random number related to your input:\n");
