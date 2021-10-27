@@ -43,6 +43,7 @@ int main(void)
 		{
 			// handling the exception status
 			printf("please check the (+, -, *, /) option..\n");
+			break;
 		}
   }
 

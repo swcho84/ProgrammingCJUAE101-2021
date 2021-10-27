@@ -17,13 +17,9 @@ int main(void)
 
   // using if-else
 	if ((dBmi < 20.0) && (dBmi >= 25.0))
-	{
 		printf("MBTI result: %lf, You need to manage your weight\n", dBmi);
-	}
 	else 
-	{
 		printf("MBTI result: %lf, You have the standard weight status\n", dBmi);
-	}
 
   // end of program..
   printf("End of the program..\n");

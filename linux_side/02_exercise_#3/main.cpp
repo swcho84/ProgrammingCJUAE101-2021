@@ -76,6 +76,7 @@ int main(void)
 		{
 			// handling the exception status
 			printf("please check the input condition..\n");
+			break;
 		}
   }
 
