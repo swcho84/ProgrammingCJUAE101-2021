@@ -69,10 +69,10 @@ int main(void)
 	double dProbDiceNum1 = 0.0, nProbDiceNum2 = 0.0, nProbDiceNum3 = 0.0, nProbDiceNum4 = 0.0, nProbDiceNum5 = 0.0, nProbDiceNum6 = 0.0;
 
 	// generating the input information
-		printf("Input a single number, for generating the random number related to your input:\n");
-		printf("if you want to end the loop, please input 999\n");
-		scanf("%d", &nRange);
-		printf("\n");
+	printf("Input a single number, for generating the random number related to your input:\n");
+	printf("if you want to end the loop, please input 999\n");
+	scanf("%d", &nRange);
+	printf("\n");
 
 	// exceptional handling
 	if (nRange < 0)
