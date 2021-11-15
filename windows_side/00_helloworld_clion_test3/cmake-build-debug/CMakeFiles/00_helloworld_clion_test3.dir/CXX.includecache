@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/source/repos/ProgrammingCJUAE101-2021/windows_side/00_helloworld_clion_test3/main.cpp
+stdio.h
+-
+stdlib.h
+-
+
