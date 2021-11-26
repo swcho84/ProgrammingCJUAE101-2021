@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/lib/circle.cpp.o CMakeFiles/main.dir/lib/triangle.cpp.o CMakeFiles/main.dir/lib/rectangle.cpp.o -o main 
