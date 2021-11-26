@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/lib/vector2d.cpp.o CMakeFiles/main.dir/lib/vector3d.cpp.o -o main 
