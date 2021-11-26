@@ -41,7 +41,7 @@ void MapExample::MainLoop()
   string strInput; // C++-style
 
   printf("Input the arbitrary fruit name:\n");
-  int nRes = scanf("%s", &chrInput);  // C-style
+  int nRes = scanf_s("%s", &chrInput);  // C-style
   //cin >> strInput;  // C++-style
   //strcpy(chrInput, strInput.c_str());  // swapping..
 

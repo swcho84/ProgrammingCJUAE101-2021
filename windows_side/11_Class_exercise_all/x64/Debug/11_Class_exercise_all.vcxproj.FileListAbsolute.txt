@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\ProgrammingCJUAE101-2021\windows_side\11_Class_exercise_all\x64\Debug\11_Class_exercise_all.exe
+C:\Users\user\source\repos\ProgrammingCJUAE101-2021\windows_side\11_Class_exercise_all\x64\Debug\11_Class_exercise_all.pdb

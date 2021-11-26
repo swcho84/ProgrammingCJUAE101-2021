@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\99_VectorProjection\Debug\99_VectorProjection.exe
+C:\Users\user\source\repos\99_VectorProjection\Debug\99_VectorProjection.pdb
